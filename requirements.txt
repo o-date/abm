@@ -1,4 +1,3 @@
 mesa
-random
 numpy
 matplotlib
